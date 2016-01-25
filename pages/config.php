@@ -6,7 +6,7 @@
     mb_internal_encoding('UTF-8');
     
     $servername = getenv('IP');
-    $username = getenv('amadou');
+    $username = getenv('pabidibe');
     $password = "";
     $database = "fadiuu";
     $dbport = 3306;
