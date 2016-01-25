@@ -1,0 +1,4 @@
+[25-Jan-2016 12:17:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/pages/config.php on line 15
+[25-Jan-2016 12:17:37 UTC] PHP Stack trace:
+[25-Jan-2016 12:17:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/pages/config.php:0
+[25-Jan-2016 12:17:37 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/pages/config.php:15
